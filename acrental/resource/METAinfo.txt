@@ -1,0 +1,219 @@
+
+*******************************************************
+*******🧙‍♂️✨🌟 © AFWCreative Solutions 🌟✨🧙‍♂️********
+***************  ~ META INFORMATION ~  ****************
+***************    ACMINIDIGGERHIRE    ****************
+*******************************************************
+*******************************************************
+
+**************************
+*** C0NTENTS *************
+1) head html
+2) business data
+3) socials data
+4) misc info
+**************************
+**************************
+
+1)*****************************************************
+***********************HEAD HTML***********************
+*******************************************************
+<!-- SEO Metadata -->
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description"
+    content="AC Mini Digger Hire & Excavations offers the highest quality mini digger hire, excavation, groundwork, and earthmoving services in Leeds and across all of West Yorkshire, including Bradford, Wakefield, York, Harrogate, Halifax, Huddersfield, Sheffield, Pontefract, Castleford, Keighley, Barnsley, and beyond. Specializing in affordable, reliable, and professional excavation services for homeowners, builders, contractors, and businesses, we provide a wide range of services including foundation digging, driveway excavations, ground leveling, soil and rubble removal, site clearance, trenching, earthmoving, drainage work, landscaping preparation, and green waste disposal. With over 27 years of experience in the plant hire and excavation industry, our team is fully insured and equipped with the latest machines for any job, big or small. Whether you're planning a DIY project or need a reliable operator, we offer both self-drive hire and fully operated hire services for mini diggers, forward tipping dumpers, and other heavy-duty machinery. AC Mini Digger Hire & Excavations is your local, trustworthy partner for mini digger hire and excavation services in Leeds and West Yorkshire. We guarantee the best prices, exceptional service, and fast, professional results on every project, from residential garden landscaping to large-scale commercial construction site preparation. No job is too big or too small, and we ensure complete customer satisfaction with every task. We also provide removal services for green waste, brash, tree branches, and debris, clearing your site efficiently and responsibly. Our fleet of modern, top-quality diggers and excavation equipment is available for hire across Yorkshire, and we pride ourselves on delivering services that are fast, efficient, and affordable without compromising on quality. No domestic waste is accepted, and our services are fully insured for your peace of mind. Call us now for a free quote and professional advice on your next excavation or groundworks project!">
+<meta name="keywords"
+    content="Mini Digger Hire Leeds, Excavator Hire West Yorkshire, Digger Rental Leeds, Operated Digger Hire Yorkshire, Self-Drive Mini Digger Yorkshire, Foundation Digging Leeds, Driveway Excavation Yorkshire, Groundworks Leeds, Site Clearance Leeds, Soil Removal Leeds, Rubble Removal Leeds, Green Waste Removal Yorkshire, Earthmoving Contractors West Yorkshire, Plant Hire Leeds, Compact Digger Hire Yorkshire, Ground Levelling Yorkshire, Trenching Leeds, Excavation Services Leeds, Garden Landscaping Excavation Leeds, Building Foundations Yorkshire, Construction Site Preparation Leeds, Affordable Digger Hire Yorkshire, Experienced Digger Operators Leeds, Soil Disposal Services Leeds, Yard Levelling Yorkshire, Machinery Hire Leeds, Professional Excavation Contractors Leeds, Best Digger Hire Yorkshire, Foundation Preparation West Yorkshire, Earthworks Leeds, Demolition Groundwork Yorkshire, Excavating Contractors West Yorkshire, Reliable Plant Hire Yorkshire, Leeds Mini Excavator Hire, Excavation Experts Leeds, Yard Excavation Leeds, Backyard Clearing Yorkshire, Brash Removal Leeds, Tree Branch Waste Disposal Yorkshire, Driveway Groundwork Leeds, Building Site Preparation Yorkshire, Demolition Clearance Leeds, Construction Ground Levelling Yorkshire, Yorkshire Excavation Companies, Affordable Groundworks Leeds, Experienced Mini Digger Operators Yorkshire, Fully Insured Excavation Services Leeds, Excavation Equipment Leeds, Site Preparation Services Yorkshire, Local Excavators Leeds, Trusted Mini Digger Hire Yorkshire, Foundation Experts West Yorkshire, Driveway Digger Rental Yorkshire, Landscaping Preparation West Yorkshire, Excavation Specialists Yorkshire, Residential Excavation Leeds, Commercial Groundworks Leeds, Digging Services Leeds, Soil and Rubble Haulage Yorkshire, Yorkshire Earthmoving Companies, Excavation and Groundwork West Yorkshire, Excavation and Landscaping Leeds, Road Preparation Leeds, Building Foundations Contractors Yorkshire, Yard Clearing Services Leeds, Earthmoving Yorkshire, High-Quality Digger Hire Leeds, Yorkshire Groundworks and Excavation, Affordable Mini Excavator Hire Leeds, Excavation and Waste Removal Yorkshire, Site Levelling and Excavation Leeds, Green Waste Disposal Leeds, Tree Brash Clearance Yorkshire, Leeds Foundation Digger Hire, Reliable Excavator Services West Yorkshire, Best Machinery Hire Yorkshire, Excavation for Extensions Leeds, Yard Digging Contractors Yorkshire, Compact Excavation Services Leeds, Foundation and Groundwork Specialists Leeds, Plant and Machinery Hire Leeds, Landscaping and Groundwork West Yorkshire, Soil Removal Experts Leeds, Construction Excavation Yorkshire, Leeds Digger and Dumper Hire, Forward Tipping Dumper Rental Leeds, Driveway Preparation Experts West Yorkshire, Professional Ground Levelling Contractors Yorkshire, Affordable Excavation Contractors Leeds, Full-Service Excavation Leeds, Expert Groundwork Solutions Leeds, Mini Excavator with Operator West Yorkshire, High-End Excavation Equipment Hire Leeds, Custom Groundwork Services Yorkshire, Soil and Rubble Management Leeds, Garden Clearance Contractors West Yorkshire, Excavation and Drainage Leeds, Heavy Equipment Rental Yorkshire, Precise Foundation Excavation Leeds, Leeds Earthmoving and Excavation, Foundation and Drainage Services West Yorkshire, Soil and Aggregate Hauling Leeds, Heavy-Duty Groundwork Contractors Yorkshire, Affordable Green Waste Clearance Leeds, Plant Equipment for Landscaping Yorkshire, Advanced Excavation Technology Leeds, Reliable Soil Removal Leeds, Best Excavation Rates Leeds, Yorkshire Digger and Excavation Experts, Trenching Contractors Yorkshire, Professional Excavation Solutions Leeds, Small Plant Hire Leeds, Excavator Hire for Hire Leeds, Residential and Commercial Excavation Yorkshire, Plant Hire West Yorkshire, Excavation for Home Extensions Yorkshire">
+<meta name="author" content="AC Mini Digger Hire & Excavations">
+<meta name="robots" content="index, follow">
+<meta name="googlebot" content="index, follow">
+<meta name="geo.region" content="GB-WYK">
+<meta name="geo.placename" content="Leeds, West Yorkshire">
+<meta name="geo.position" content="53.7965;-1.5478">
+<meta name="ICBM" content="53.7965, -1.5478">
+<meta name="address" content="49 Waveney Road, Leeds, West Yorkshire, LS124EY">
+<meta name="revisit-after" content="3 days">
+<meta name="rating" content="General">
+<meta name="distribution" content="Global">
+<meta name="language" content="English">
+<meta name="google" content="notranslate">
+<meta name="referrer" content="always">
+<meta name="contact:email" content="acminidiggerhire@gmail.com">
+<meta name="contact:phone_number" content="+447592433284">
+<meta name="contact:street_address" content="49 Waveney Road">
+<meta name="contact:locality" content="Leeds">
+<meta name="contact:region" content="West Yorkshire">
+<meta name="contact:postal_code" content="LS124EY">
+<meta name="contact:country_name" content="United Kingdom">
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="AC Mini Digger Hire & Excavations - Leeds and West Yorkshire's Trusted Excavation Service">
+<meta property="og:description"
+    content="AC Mini Digger Hire & Excavations offers professional excavation, mini digger hire, groundworks, and earthmoving services across Leeds and Yorkshire. With 27+ years of experience, we specialize in foundation digging, driveway excavation, soil removal, and more. Fully insured and affordable.">
+<meta property="og:image" content="https://yourwebsite.com/assets/images/og-image.jpg">
+<meta property="og:url" content="https://yourwebsite.com">
+<meta property="og:site_name" content="AC Mini Digger Hire & Excavations">
+<meta property="article:publisher" content="https://www.facebook.com/people/AC-Mini-Digger-Hire-Excavations/61560170181016/">
+<meta property="article:author" content="https://x.com/ACMiniDiggerHire">
+<meta property="article:section" content="Excavation, Groundworks, and Plant Hire Services in Leeds and Yorkshire">
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://x.com/ACMiniDiggerHire">
+<meta property="twitter:title" content="AC Mini Digger Hire & Excavations">
+<meta property="twitter:description" content="Mini digger hire, excavation, groundwork, and earthmoving services in Leeds, West Yorkshire. Hire for foundation digging, trenching, soil removal, and more. Fully insured with 27+ years of experience.">
+<meta property="twitter:image" content="https://x.com/assets/images/twitter-image.jpg">
+<!-- Structured Data / Schema.org -->
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "AC Mini Digger Hire & Excavations",
+      "image": "https://yourwebsite.com/assets/images/og-image.jpg",
+      "@id": "https://yourwebsite.com",
+      "url": "https://yourwebsite.com",
+      "telephone": "+447592433284",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "49 Waveney Road",
+        "addressLocality": "Leeds",
+        "addressRegion": "West Yorkshire",
+        "postalCode": "LS124EY",
+        "addressCountry": "GB"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 53.7965,
+        "longitude": -1.5478
+      },
+      "sameAs": [
+        "https://www.facebook.com/people/AC-Mini-Digger-Hire-Excavations/61560170181016/",
+        "https://x.com/ACMiniDiggerHire",
+        "https://www.instagram.com/cdickinsonhomeimprovement/"
+      ],
+      "priceRange": "££",
+      "description": "AC Mini Digger Hire & Excavations offers professional mini digger hire, excavation services, and plant hire solutions in Leeds and West Yorkshire. Specializing in foundations, driveway excavations, trenching, soil removal, and more. Fully insured and operated by industry experts with over 27 years of experience."
+    }
+</script>
+
+
+2)*****************************************************
+*********************BUSINESS DATA*********************
+*******************************************************
+AC MINIDIGGER HIRE & EXCAVATIONS
+AC MINIDIGGER HIRE & EXCAVATIONS in PLANT HIRE AND MACHINERY
+acminidiggerhire@gmail.com 
+07592433284 
+
+We're based in Wortley Leeds and have minidigger for hire with owner driver we specialise in excavations for foundations and other services ,,please call us for more information Full public liability insured .
+
+Location
+49 Waveney Road, West Yorkshire, Leeds, LS124EY
+
+
+And with over 27 years experience in the plant industry you know you're in safe hands! fully insured for your piece of mind, contact us for more information. Self drive hire available as well as operated hire .
+
+
+---META Information---
+Website URL: [YourWebsiteURL]
+Business Name: 
+Location: West Yorkshire
+Business Description:
+Additional Notes: [Any additional meta information]
+---CONTACT Information---
+Email:
+Address:
+WhatsApp:
+Number: +44
+Additional Notes: [Any additional information]
+
+3)*****************************************************
+*********************SOCIAL DATA***********************
+*******************************************************
+---Social Media Accounts---
+Facebook:
+URL: Password: Aa13BcD11
+Additional Notes: [Any additional information]
+
+Twitter:
+URL: 
+Password: 
+Additional Notes: [Any additional information]
+
+Instagram:
+URL:Password: 
+Additional Notes: [Any additional information]
+
+LinkedIn:
+URL:
+Password: 
+Additional Notes: [Any additional information]
+
+YouTube:
+URL: 
+Password:
+
+Additional Notes: [Any additional information]
+Contact Information:
+
+4)***************************************************
+***********************MISC INFO*********************
+*****************************************************
+----wat we do------
+-Mini digger hire with owner-driver
+-Forward tipping dumper
+-Driveway excavations
+-Foundations excavation and preparation
+-Ground levelling and remediation services
+-Soil and rubble removal
+-Green waste removal, including brash and tree branches 
+-Self-drive and operated digger hire options
+-Fully insured services with over 27 years of industry experience
+
+**Mini Digger Hire with Owner-Driver**  
+Professional, reliable mini digger hire service with an experienced owner-operator, ready to tackle your groundwork needs.  
+
+**Forward Tipping Dumper**  
+Efficient material transport and disposal for any site, saving time and ensuring a clean workspace.
+
+**Driveway Excavations**  
+Expert driveway excavation service for a solid, lasting foundation, perfectly prepared for paving or surfacing.  
+
+**Foundations Excavation and Preparation**  
+Precision foundation excavation for secure, stable building bases, completed quickly and carefully.  
+
+**Ground Levelling and Remediation Services**  
+High-quality ground levelling to prepare and restore sites, ensuring safe, even surfaces for any project.  
+
+**Soil and Rubble Removal**  
+Hassle-free soil and rubble removal to keep your site clean and clear for the next stage of work.  
+
+**Green Waste Removal (Brash, Tree Branches)**  
+Efficient removal of brash and green waste—ideal for garden clean-ups, leaving you with a tidy site.  
+
+**Self-Drive and Operated Digger Hire Options**  
+Flexible hire options: drive the equipment yourself or have one of our skilled operators handle the job.  
+
+**Fully Insured Services with 27+ Years of Industry Experience**  
+With decades of experience and full insurance, we offer peace of mind and unmatched expertise—ready to serve you!
+
+-----------------Reviews--------------
+BryanR-83
+29 Jul 2024
+Can’t recommend these guys enough!
+Absolutely amazing service from Stephen at AC Mini Digger Hire!
+
+From the planning stage right up to completion Stephen is extremely knowledgeable in the field “no pun intended” and helpful throughout the whole of my complex project! I will recommend him to my friends and family and I’ll be sure to return in the future!
+
+He was super friendly, punctual and a pleasure to deal with, no hassle, straight to work and a hard worker at that “rare quality these days” he likes a good cup of tea and a chat so be sure to stock some Yorkshire tea and some biscuits and he will sort the rest! Thanks again AC team
+
+
+***********************************************
+****************** /END ***********************
+***********************************************
+
+
+
+
+
+
+
